@@ -1,2 +1,2 @@
-# codewars-python-practice
-My Python solutions for CodeWars challenges
+# Daily algorithm practice in Python
+My Python solutions for CodeWars and Leetcode challenges

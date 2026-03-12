@@ -24,5 +24,6 @@ Example problems solved:
 - Credit Card Mask (CodeWars)
 - Array.diff (CodeWars)
 - Square Digits (CodeWars)
+- Sum of two smallest numbers from an array (Codewars)
 
 More problems will be added regularly as part of my daily practice.

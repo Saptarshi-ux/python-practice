@@ -27,5 +27,6 @@ Example problems solved:
 - Sum of two smallest numbers from an array (CodeWars)
 - multiplicative persistence (CodeWars)
 - Checking if three sides make a triangle or not (CodeWars)
+- convert a binary array into a number (CodeWars)
 
 More problems will be added regularly as part of my daily practice.

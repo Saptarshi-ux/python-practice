@@ -29,5 +29,6 @@ Example problems solved:
 - Checking if three sides make a triangle or not (CodeWars)
 - convert a binary array into a number (CodeWars)
 - Count characters in a string and return in dict format (count.py)(CodeWars)
+- counting the number of smileys in an array(smiley_count.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.

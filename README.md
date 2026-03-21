@@ -32,5 +32,6 @@ Example problems solved:
 - counting the number of smileys in an array(smiley_count.py)(CodeWars)
 - unique number from an array (arr_unique.py) (CodeWars)
 - breaks up camel casing (camel_casing)(CodeWars)
+- Add function to create phone number from integers (phn_num.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.

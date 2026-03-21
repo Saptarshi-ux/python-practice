@@ -33,5 +33,6 @@ Example problems solved:
 - unique number from an array (arr_unique.py) (CodeWars)
 - breaks up camel casing (camel_casing)(CodeWars)
 - Add function to create phone number from integers (phn_num.py)(CodeWars)
+- Implement a function to check for prime numbers (isprime.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.

@@ -7,9 +7,8 @@
 
 - This repository contains my Python solutions to algorithm and coding challenges from platforms like CodeWars and LeetCode. The goal of this repository is to improve problem-solving ability, data structures knowledge, and algorithmic thinking through consistent practice.
 
-## Platforms
+## Platform
 - CodeWars
-- LeetCode
 
 ## Topics Covered
 - Arrays and lists

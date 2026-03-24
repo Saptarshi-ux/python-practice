@@ -33,5 +33,6 @@ Example problems solved:
 - breaks up camel casing (camel_casing)(CodeWars)
 - Add function to create phone number from integers (phn_num.py)(CodeWars)
 - Implement a function to check for prime numbers (isprime.py)(CodeWars)
+- scramble function to check character rearrangement(scramble.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.

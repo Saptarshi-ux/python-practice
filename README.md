@@ -34,5 +34,6 @@ Example problems solved:
 - Add function to create phone number from integers (phn_num.py)(CodeWars)
 - Implement a function to check for prime numbers (isprime.py)(CodeWars)
 - scramble function to check character rearrangement(scramble.py)(CodeWars)
+- Write a function that takes a string input, and returns the first character that is not repeated anywhere in the string.(first_non_repeating_letter.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.

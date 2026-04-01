@@ -9,11 +9,16 @@
 
 ## Platform
 - CodeWars
+<div align="left">
+
 <div align="center">
 
 ### 🧠 Coding Profiles
 
-[![Codewars](https://www.codewars.com/users/Saptarshi-ux/badges/small)](https://www.codewars.com/users/Saptarshi-ux)
+[![Codewars](https://www.codewars.com/users/Saptarshi-ux/badges/large?theme=light)](https://www.codewars.com/users/Saptarshi-ux)
+
+</div>
+
 
 ## Repository Structure
 Each Python file corresponds to a single problem solution.

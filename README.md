@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🧠 Coding Profiles
+###  Coding Profiles
 
 [![Codewars](https://www.codewars.com/users/Saptarshi-ux/badges/large?theme=light)](https://www.codewars.com/users/Saptarshi-ux)
 

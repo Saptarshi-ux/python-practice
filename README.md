@@ -9,7 +9,13 @@
 
 ## Platform
 - CodeWars
+<div align="center">
 
+### 🧠 Coding Profiles
+
+[![Codewars](https://www.codewars.com/users/Saptarshi-ux/badges/small)](https://www.codewars.com/users/Saptarshi-ux)
+
+</div>
 ## Topics Covered
 - Arrays and lists
 - String manipulation

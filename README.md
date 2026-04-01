@@ -37,5 +37,6 @@ Example problems solved:
 - Write a function that takes a string input, and returns the first character that is not repeated anywhere in the string.(first_non_repeating_letter.py)(CodeWars)
 - function to calculate last digit of power (power.py)(CodeWars)
 - function to calculate determinant of matrix(determinant.py)(CodeWars)
+- Implement a function to convert PascalCase to snake_case (snake_case.py)(CodeWars)
 
 More problems will be added regularly as part of my daily practice.

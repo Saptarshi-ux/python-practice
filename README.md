@@ -15,13 +15,6 @@
 
 [![Codewars](https://www.codewars.com/users/Saptarshi-ux/badges/small)](https://www.codewars.com/users/Saptarshi-ux)
 
-</div>
-## Topics Covered
-- Arrays and lists
-- String manipulation
-- Sets and hashing
-- Basic algorithmic logic
-
 ## Repository Structure
 Each Python file corresponds to a single problem solution.
 

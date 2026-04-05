@@ -42,5 +42,6 @@ Example problems solved:
 - function to calculate last digit of power (power.py)(CodeWars)
 - function to calculate determinant of matrix(determinant.py)(CodeWars)
 - Implement a function to convert PascalCase to snake_case (snake_case.py)(CodeWars)
+- created a function to calculate the MSE from arrays (mse.py) (CodeWars)
 
 More problems will be added regularly as part of my daily practice.

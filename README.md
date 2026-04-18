@@ -6,4 +6,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-Problem 1: [Demonstrate value equality and identity comparison of lists.](compare.py)
+Problem 1: [Demonstrate value equality and identity comparison of lists](compare.py)

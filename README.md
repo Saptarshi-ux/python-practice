@@ -8,4 +8,4 @@
 
 - Problem 1: [Demonstrate value equality and identity comparison of lists](compare.py)
 - Problem 2: [understanding nested data structures and indexing in Python](indexing.py)
-- Probelem 3: [This demonstrates that the else block in a for loop executes only if the loop completes without encountering a break](interrupted_loop.ipynb)
+- Problem 3: [This demonstrates that the else block in a for loop executes only if the loop completes without encountering a break](interrupted_loop.ipynb)

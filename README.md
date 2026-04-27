@@ -20,3 +20,4 @@
 - Problem 4: [Negative indexing and loop behavior in Python](neg_indexing.py)
 - Problem 5: [demonstrates filtering strings based on a condition and printing characters at even indices using nested loops](string_iteration.py)
 - Problem 6: [demonstrates conditional string formatting in a loop](conditional_string_formatting.py)
+- Problem 7: [the difference between reference assignment and shallow copying in Python lists](reference_assignment_and_shallow_copying.py)

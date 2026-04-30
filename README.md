@@ -22,3 +22,4 @@
 - Problem 6: [demonstrates conditional string formatting in a loop](conditional_string_formatting.py)
 - Problem 7: [the difference between reference assignment and shallow copying in Python lists](reference_assignment_and_shallow_copying.py)
 - Problem 8: [Walrus operator with example](walrus.py)
+- Problem 9: [Suppose from a list it is asked to extract the first and last element, without using lop and indexation](extract_list.py)

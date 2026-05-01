@@ -25,3 +25,4 @@
 - Problem 9: [Suppose from a list it is asked to extract the first and last element, without using loops and indexation](extract_list.py)
 - Problem 10: [This calculates the distance between two points using the distance formula.](euclidean_dis.py)
 - Problem 11: [Check if a number is a palindrome or not without slicing](palindrome.py)
+- Problem 12: [The Same Problem of 11 now Using the Slicing method](palindrome_simple.py)

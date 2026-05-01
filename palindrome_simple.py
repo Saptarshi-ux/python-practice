@@ -1,4 +1,4 @@
-#The Same Problem now Using the Slicing method
+#The Same Problem (Problem 11) now Using the Slicing method
 """ The goal is to determine if a given number is a palindrome ot not. 
 Instead of using loops or complex logic, 
 the number is treated as a string and compared with its reversed version using slicing."""

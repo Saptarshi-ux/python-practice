@@ -27,3 +27,4 @@
 - Problem 11: [Check if a number is a palindrome or not without slicing](palindrome.py)
 - Problem 12: [The Same Problem of 11 now Using the Slicing method](palindrome_simple.py)
 - Problem 13: [Manhattan distance calculation](manhattan.py)
+- Problem 14: [Extracting the values and index from a list wthout using loop, but using enumerate()](list_index_value.py)

@@ -32,4 +32,4 @@
 - Problem 16: [Find the Greatest Common Divisor of two numbers](gcd.py)
 - Problem 17: [Fibonacci Sequence using Recursion](Fibonacci_Sequence.py)
 - Problem 18: [recursive factorial function](factorial.py)
-- Problem 19: [Extracting odd numbers from a list given by User]()
+- Problem 19: [Extracting odd numbers from a list given by User](odd_list.py)

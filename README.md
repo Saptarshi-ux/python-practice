@@ -34,3 +34,4 @@
 - Problem 18: [recursive factorial function](factorial.py)
 - Problem 19: [Extracting odd numbers from a list given by User](odd_list.py)
 - Problem 20: [Odd and Even number detection from user given input using modulo operator](odd_even.py)
+- Problem 21: [LCM calculation for two user-input numbers](lcm.py)

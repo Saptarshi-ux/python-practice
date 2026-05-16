@@ -39,3 +39,4 @@
 - Problem 23: [function to check if a number is prime](prime_func.py)
 - Problem 24: [Demonstrate variable references and list reassignment](Variable_References_and_List_Reassignment.py)
 - Problem 25: [The tax calculation structure for the New Tax Regime](tax.py)
+- Problem 26: [Write a Program to display a calendar](calendar.py)

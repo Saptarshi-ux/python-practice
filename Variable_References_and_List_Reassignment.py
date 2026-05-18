@@ -32,3 +32,15 @@ Because b was created to hold a direct sticky note to a (making b look like [[1,
 any in-place changes to a will instantly show up inside b. 
 Therefore, when the print statement checks if the first item in b is the exact same object as a in memory (b[0] is a),
 it correctly evaluates to True, and prints the updated contents showing that b is now [[1, 2, 3]]."""
+
+
+
+#Problem 3:
+data=(12,18,24)
+a,*b=data
+for i in range(len(b)):
+  b[i]+=a
+  a+=4
+print(a)
+print(b)
+

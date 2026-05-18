@@ -44,3 +44,17 @@ for i in range(len(b)):
 print(a)
 print(b)
 
+
+#Explanation: 
+"""
+The code starts with data=(12,18,24), which creates a standard tuple of three numbers. 
+Next, a,*b=data uses a Python trick called "extended unpacking,"
+where a grabs the first number (12), and the asterisk on *b scoops up all the remaining numbers 
+and packs them into a mutable list ([18, 24]). 
+  The loop for i in range(len(b)): is set up to run exactly twice because there are two items in list b 
+(representing indexes 0 and 1). 
+During the first loop cycle (i=0), b[i]+=a adds the current value of a (12) to the first list item (18),
+turning it into 30, and a+=4 bumps a up to 16. During the second loop cycle (i=1), 
+b[i]+=a adds the newly updated a (16) to the second list item (24), turning it into 40, 
+and a+=4 bumps a up again to 20. Finally, print(a) outputs the final updated integer 20, 
+and print(b) outputs the modified list [30, 40]"""

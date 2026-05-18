@@ -37,6 +37,6 @@
 - Problem 21: [LCM calculation for two user-input numbers](lcm.py)
 - Problem 22: [Find the second largest element in the list without using sort](2nd_largest.py)
 - Problem 23: [function to check if a number is prime](prime_func.py)
-- Problem 24: [Demonstrate variable references and list reassignment](Variable_References_and_List_Reassignment.py)
+- Problem 24: [Problems on variable references and list reassignment](Variable_References_and_List_Reassignment.py)
 - Problem 25: [The tax calculation structure for the New Tax Regime](tax.py)
 - Problem 26: [Write a Program to display a calendar](calendar.py)

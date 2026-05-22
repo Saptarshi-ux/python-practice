@@ -42,3 +42,4 @@
 - Problem 26: [Write a Program to display a calendar](calendar.py)
 - Problem 27: [triangle inequality check in triangle](triangle.py)
 - Problem 28: [Demonstrate the use of remove() and pop() methods on a list](removepop.py)
+- Problem 29: [Implemented FizzBuzz logic](fizzbuzz.py)

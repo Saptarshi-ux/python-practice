@@ -43,3 +43,4 @@
 - Problem 27: [triangle inequality check in triangle](triangle.py)
 - Problem 28: [Demonstrate the use of remove() and pop() methods on a list](removepop.py)
 - Problem 29: [Implemented FizzBuzz logic](fizzbuzz.py)
+- Problem 30: [Remove duplicates from list](duplicate.py)

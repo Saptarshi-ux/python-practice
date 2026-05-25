@@ -43,5 +43,5 @@
 - Problem 27: [triangle inequality check in triangle](triangle.py)
 - Problem 28: [Demonstrate the use of remove() and pop() methods on a list](removepop.py)
 - Problem 29: [Implemented FizzBuzz logic](fizzbuzz.py)
-- Problem 30: [How to remove duplicates from list](duplicate.py)
-- Problem 31: [character frequency counting in a string](string_f.py)
+- Problem 30: [How to remove the duplicates from a list](duplicate.py)
+- Problem 31: [Character frequency counting in a string](string_f.py)

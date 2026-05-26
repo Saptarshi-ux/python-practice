@@ -33,7 +33,7 @@
 - Problem 17: [Fibonacci Sequence using Recursion](Fibonacci_Sequence.py)
 - Problem 18: [recursive factorial function](factorial.py)
 - Problem 19: [Extracting odd numbers from a list given by User](odd_list.py)
-- Problem 20: [Odd and Even number detection from user given input using modulo operator](odd_even.py)
+- Problem 20: [Odd and Even number detection from user given input using modulo operator, later refactored](odd_even.py)
 - Problem 21: [LCM calculation for two user-input numbers](lcm.py)
 - Problem 22: [Find the second largest element in the list without using sort](2nd_largest.py)
 - Problem 23: [function to check if a number is prime](prime_func.py)

@@ -9,3 +9,10 @@ else:
 """ This code takes an integer input from the user and uses the modulo operator (%) to calculate the remainder 
 when the number is divided by 2. Because Python evaluates a remainder of 1 as True and 0 as False, 
 the if statement elegantly triggers the "odd" block for remainders of 1, and the else block for a remainder of 0."""
+
+#We can also do this or optimise it in one line:
+
+n=int(input('ENTER A NUMBER:'))
+print(f'{n} is an Odd number' if n%2 else f'{n} is an Even number')
+
+#Explanation is same but it i more optimised

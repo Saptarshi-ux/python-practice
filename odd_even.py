@@ -15,4 +15,10 @@ the if statement elegantly triggers the "odd" block for remainders of 1, and the
 n=int(input('ENTER A NUMBER:'))
 print(f'{n} is an Odd number' if n%2 else f'{n} is an Even number')
 
-#Explanation is same but it i more optimised
+#Explanation is same but it is more optimised
+
+
+#Now the same problem in recursive function:
+
+def odd_even(n):
+  return f'{n} is an Odd number' if n%2 else f'{n} is an Even number'

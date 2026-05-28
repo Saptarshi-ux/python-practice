@@ -5,7 +5,8 @@ year=int(input("enter the year:"))
 month_name=input("Enter the first three letter of the month required (eg. 'Jan'):").strip().title()
 month_number = list(c.month_abbr).index(month_name)
 cal=c.month(year, month_number)
-print(cal)The calendar module has a hidden list of abbreviations that looks like this: ['', 'Jan', 'Feb', 'Mar', ...]
+print(cal)
+#The calendar module has a hidden list of abbreviations that looks like this: ['', 'Jan', 'Feb', 'Mar', ...]
 
 
 #Code Explanation:

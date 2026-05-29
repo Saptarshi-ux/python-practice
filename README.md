@@ -46,3 +46,4 @@
 - Problem 30: [How to remove the duplicates from a list](duplicate.py)
 - Problem 31: [Character frequency counting in a string](string_f.py)
 - Problem 32: [Extract user name from an email id](email_username.py)
+- Problem 33: [Detecting the Pythagorean triples](pythagorean_triples.py)

@@ -11,3 +11,12 @@ print(f'The largest element from the list {x} is 👉 {largest}')
 #So I have modified that part. In the first code, if by chance the user passes an empty list, then it will throw an INDEX ERROR. So to meet this gap,
 #I have modified the code in this way:
 
+x=[int(a) for a in input("Enter numbers separated by single space:").split()]
+if x==[]:
+  print("The list is empty")
+elif x!=[]:
+  largest=x[0]
+  for i in x:
+    if i>largest:
+      largest=i
+  print(f'The largest element from the list {x} is 👉 {largest}')

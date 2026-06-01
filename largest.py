@@ -21,4 +21,12 @@ elif x!=[]:
       largest=i
   print(f'The largest element from the list {x} is 👉 {largest}')
 
+
 #Now solving the same problem using .sort() method
+
+x=[int(a) for a in input("Enter numbers separated by single space:").split()]
+if x==[]:
+  print("The list is empty")
+elif x!=[]:
+  x.sort(reverse=True)
+  print(f'The largest element of our list is {x[0]}')

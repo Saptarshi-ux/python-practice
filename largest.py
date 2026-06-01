@@ -20,3 +20,5 @@ elif x!=[]:
     if i>largest:
       largest=i
   print(f'The largest element from the list {x} is 👉 {largest}')
+
+#Now solving the same problem using .sort() method

@@ -49,3 +49,4 @@
 - Problem 33: [Detecting the Pythagorean triples](pythagorean_triples.py)
 - Problem 34: [finding the largest element in a list](largest.py)
 - Problem 35: [sorting dictionary](dict.py)
+- Problem 36: [Description of Lambda with examples](https://github.com/Saptarshi-ux/python-practice/tree/main/lambda)

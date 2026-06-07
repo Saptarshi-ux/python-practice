@@ -17,3 +17,15 @@
 *Syntax:*
 
 `lambda arguments: expression`
+
+
+**Condtional statement in Lambda**
+  
+  ---
+* Now another point, if we want to pass condition in Lambda function, then we have to remember, Python's lambdas are restricted to a single expression and don't support elif or multi-line logic.
+* If we have to use multiple conditions, then after the if statement we have to merge all other conditions as a sub-condition into else clause
+* The single expression syntax under Lambda is:
+  `lambda arguments: value_if_true if condition else value_if_false`
+* for multiple conditions: `lambda arguments: value_1 if condition_1 else (value_2 if condition_2 else value_3)`
+
+

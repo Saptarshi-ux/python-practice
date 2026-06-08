@@ -14,3 +14,10 @@ print(f'The number {n} is Even:- {is_even(n)}')
 check_n=lambda x: 'Positive Number' if x>0 else ('It is Zero' if x == 0 else 'Negative Number')
 n = float(input("enter a number: "))
 print(f'the number {n} is {check_n(n)}')
+
+
+#variance of numbers from a list
+
+variance=lambda y: sum((x -(sum(y)/len(y)))**2 for x in y)/len(y)
+n=[int(a) for a in input("Enter numbers separated by single space:").split()]
+print(f'The Variance of the numbers {n} is: {variance(n)}')

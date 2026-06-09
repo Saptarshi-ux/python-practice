@@ -1,4 +1,4 @@
-#Finding the factorial of a number using conditional expessions:
+#Finding the factorial of a number using conditional expressions:
 
 n=int(input("Enter a number: "))
 factorial=1

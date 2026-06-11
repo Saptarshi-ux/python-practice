@@ -3,7 +3,7 @@
 n=int(input("Enter a number: "))
 factorial=1
 if n<0:
-  print(f'You have entered {n} which is a negative number. Factorial doesnt exists for negative number')
+  print(f'You have entered {n} which is a negative number. Factorial does not exist for negative number')
 elif n<=1:
   print(f' Factrial of {n} is 1')
 else:

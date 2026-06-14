@@ -51,3 +51,4 @@
 - Problem 35: [sorting dictionary](dict.py)
 - Problem 36: [Description of Lambda with examples](https://github.com/Saptarshi-ux/python-practice/tree/main/lambda)
 - Problem 37: [factorial of any number using conditional expressions](fact.py)
+- Problem 38: [Counting Vowels in a text](vowel_count.py)

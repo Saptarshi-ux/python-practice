@@ -53,3 +53,4 @@
 - Problem 37: [factorial of any number using conditional expressions](fact.py)
 - Problem 38: [Counting Vowels in a text](vowel_count.py)
 - Problem 39: [Problems based on Numpy](https://github.com/Saptarshi-ux/python-practice/tree/main/numpy)
+- Problem 40: [Floor Division with practical examples](https://github.com/Saptarshi-ux/python-practice/tree/main/floor_division)

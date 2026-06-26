@@ -11,3 +11,10 @@ by dropping the first column and another by dropping the last column, and adds t
 generate a new matrix `y` containing the values [[3, 5], [9, 11]]. Finally, the code extracts the first row of this new matrix ([3, 5]), 
 multiplies it element-by-element with the second row ([9, 11]) to produce the array [27, 55], 
 and calculates the sum of those two numbers to print the final result of 82."""
+
+#Array Indexing
+
+import numpy as n
+ar=n.array([3,6,9,12])
+f=ar[ar>6]
+print(f.sum())
